@@ -5,7 +5,7 @@ Javaの日常
 
 1.sort() 方法：Arrays.sort() 是 Arrays 类中的一个静态方法，用于对数组进行排序。默认情况下，它对数组中的元素进行升序排序。
 eg:
-```
+```Java
 import java.util.Arrays;
 
 public class Main {
