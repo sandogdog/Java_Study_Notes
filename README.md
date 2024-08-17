@@ -17,3 +17,8 @@ public class Main {
         System.out.println(Arrays.toString(nums1)); // 输出: [1, 2, 5, 5, 6, 9]
     }
 }
+```
+
+<br>
+
+2.final 变量：被 final 修饰的变量在赋值之后，就不能再被重新赋值了。这种特性常用于定义常量。
