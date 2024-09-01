@@ -34,3 +34,118 @@ public class Main {
 ---
 
 ### 5.在 Java 中，字符用单引号表示，而字符串用双引号表示。== 可以用于比较两个 char 类型的值，但对于 String 类型的值，应使用 .equals() 方法进行比较。
+
+---
+
+### 6.静态上下文（例如静态方法或静态块）不能直接访问类的非静态成员（包括非静态方法和变量），因为静态成员属于类本身，而非静态成员属于类的实例。
+
+#### 例子：
+
+假设你有以下代码：
+```Java
+public class Main {
+    public void judgment(char[][] grid) {
+        // Some code
+    }
+
+    public static void main(String[] args) {
+        judgment(grid);  // Error: Non-static method 'judgment(char[][])' cannot be referenced from a static context
+    }
+}
+```
+#### 问题
+
+在 main 方法中，你尝试调用非静态的 judgment 方法，但 main 是静态方法。静态方法无法直接访问非静态方法，因为非静态方法依赖于类的具体实例。
+
+#### 解决方案
+
+有两种常见的解决方案：
+
+1）将方法变为静态方法
+
+如果该方法不依赖类的实例，可以将其声明为静态方法：
+```Java
+public class Main {
+    public static void judgment(char[][] grid) {
+        // Some code
+    }
+
+    public static void main(String[] args) {
+        char[][] grid = {{'B', 'W'}, {'W', 'B'}};
+        judgment(grid);  // Now it works
+    }
+}
+```
+
+2)创建类的实例并调用非静态方法
+
+如果 judgment 方法依赖于类的实例，则在 main 方法中创建类的实例，并通过该实例调用非静态方法：
+```Java
+public class Main {
+    public void judgment(char[][] grid) {
+        // Some code
+    }
+
+    public static void main(String[] args) {
+        Main mainInstance = new Main();
+        char[][] grid = {{'B', 'W'}, {'W', 'B'}};
+        mainInstance.judgment(grid);  // No error now
+    }
+}
+``` 
+
+---
+
+### 7.类的实例和静态的区别
+
+*实例成员（非静态成员）：每个类的实例（对象）都有自己独立的一份数据或方法。这些成员依赖于类的具体对象来访问或调用。例如，普通的类变量和方法通常是非静态的，属于类的实例。
+
+*静态成员：静态成员是属于类本身的，不依赖于类的实例。静态成员可以直接通过类名调用，无需创建类的对象。
+
+#### 例子说明
+
+1)实例成员
+```Java
+public class Person {
+    // 实例成员变量
+    private String name;
+
+    // 构造器用于初始化类的实例
+    public Person(String name) {
+        this.name = name;
+    }
+
+    // 实例方法
+    public void sayHello() {
+        System.out.println("Hello, my name is " + name);
+    }
+
+    public static void main(String[] args) {
+        // 创建类的实例（对象）
+        Person person = new Person("Alice");
+        
+        // 调用实例方法
+        person.sayHello();  // 输出: Hello, my name is Alice
+    }
+}
+```
+在这个例子中，name 和 sayHello() 方法都是依赖于类的实例的。我们不能直接通过类名 Person 来调用 sayHello()，必须先创建 Person 类的对象 person，再通过这个对象调用该方法。
+
+2)静态成员
+```Java
+public class Person {
+    // 静态成员变量
+    private static String species = "Homo sapiens";
+
+    // 静态方法
+    public static void showSpecies() {
+        System.out.println("Species: " + species);
+    }
+
+    public static void main(String[] args) {
+        // 可以直接通过类名调用静态方法
+        Person.showSpecies();  // 输出: Species: Homo sapiens
+    }
+}
+```
+在这个例子中，species 和 showSpecies() 是静态的，它们属于类本身，和任何特定的实例无关。我们可以直接通过类名 Person 调用 showSpecies()，无需创建类的实例。
