@@ -149,3 +149,35 @@ public class Person {
 }
 ```
 在这个例子中，species 和 showSpecies() 是静态的，它们属于类本身，和任何特定的实例无关。我们可以直接通过类名 Person 调用 showSpecies()，无需创建类的实例。
+
+---
+
+### 8.'@Data' 是 Lombok 库中的一个注解，用于简化 Java 类中常见的样板代码。它会自动生成以下常用的代码：
+
+1. **Getter 和 Setter 方法**：
+   - 为类中的所有字段自动生成相应的 `get` 和 `set` 方法。
+
+2. **`toString()` 方法**：
+   - 自动生成 `toString()` 方法，输出对象的字段值，便于调试和日志记录。
+
+3. **`equals()` 和 `hashCode()` 方法**：
+   - 自动生成 `equals()` 和 `hashCode()` 方法，用于对象比较和散列操作。
+
+4. **`RequiredArgsConstructor`**：
+   - 生成一个包含所有 `final` 字段的构造方法，以及所有标记了 `@NonNull` 注解的字段。
+
+使用 `@Data` 可以避免手动编写重复的代码，从而使代码更简洁、更易维护。它通常适用于简单的数据传输对象（DTO）或实体类中。
+
+**示例**：
+```java
+@Data
+public class User {
+    private Long id;
+    private String name;
+    private String email;
+}
+```
+这个注解将会自动生成 `id`、`name` 和 `email` 的 Getter、Setter、`toString()`、`equals()` 和 `hashCode()` 方法。
+
+### 注意：
+- 如果你需要定制某些方法，可能需要自己手动编写这些方法，避免 Lombok 的自动生成与手动代码冲突。
