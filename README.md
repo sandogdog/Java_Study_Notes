@@ -181,3 +181,29 @@ public class User {
 
 ### 注意：
 - 如果你需要定制某些方法，可能需要自己手动编写这些方法，避免 Lombok 的自动生成与手动代码冲突。
+
+---
+
+# 9.Java集合框架体系
+
+![image](https://github.com/user-attachments/assets/c130884c-092a-412a-851f-2003f86fe172)
+
+---
+
+# 10.算法复杂度分析
+
+![image](https://github.com/user-attachments/assets/b24dd79c-fda8-4995-a8d0-59ce1e512207)
+
+![image](https://github.com/user-attachments/assets/38d5ab68-f092-4114-95a8-fc2b575c7f11)
+
+![image](https://github.com/user-attachments/assets/e8ec847c-0e0b-47db-b0de-7c07c8358a6a)
+
+![image](https://github.com/user-attachments/assets/2454800a-6a22-4cc2-aa23-fb5dd87bdc9e)
+
+![image](https://github.com/user-attachments/assets/6b3146b4-d079-4da3-97f6-f12457ffcf5e)
+
+![image](https://github.com/user-attachments/assets/cca71d64-e3c5-4622-a68b-a47e14f908b5)
+
+![image](https://github.com/user-attachments/assets/70d052ab-942c-4f50-9724-193eac9a7b00)
+
+![image](https://github.com/user-attachments/assets/2b1f154d-bfdb-44c3-93cb-4c085c910b31)
