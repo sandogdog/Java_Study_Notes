@@ -227,3 +227,19 @@ public class User {
 # 12.ArrayList源码分析
 
 ![image](https://github.com/user-attachments/assets/e85ca02c-d7c5-4450-8c9e-c547fdd1331e)
+
+---
+
+# 13.ArrayList底层原理及构造函数相关面试题回答
+
+![image](https://github.com/user-attachments/assets/96358e7d-0e64-43c7-a899-5613c8751189)
+
+![image](https://github.com/user-attachments/assets/9515752e-1648-4c60-96ce-74ae6e80f058)
+
+---
+
+# 14.ArrayList如何实现数组和List之间的转换
+
+![image](https://github.com/user-attachments/assets/117872ad-806b-48b4-8c8e-f87ba08891c9)
+
+![image](https://github.com/user-attachments/assets/14ed62b7-a926-4b39-a51a-b67dbf0360aa)
