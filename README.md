@@ -242,4 +242,30 @@ public class User {
 
 ![image](https://github.com/user-attachments/assets/117872ad-806b-48b4-8c8e-f87ba08891c9)
 
-![image](https://github.com/user-attachments/assets/14ed62b7-a926-4b39-a51a-b67dbf0360aa)
+![image](https://github.com/user-attachments/assets/a82868e9-0feb-4bfa-8cdf-c7be3845f1ba)
+
+---
+
+# 15.LinkedList数据结构——链表
+
+![image](https://github.com/user-attachments/assets/22496283-df8c-447b-b7a1-8ed5f03656ab)
+
+![image](https://github.com/user-attachments/assets/e7aacd26-3669-47ed-a061-bc6c47abd36b)
+
+![image](https://github.com/user-attachments/assets/b04e644a-a5c5-4e03-85a4-bac4f1959e66)
+
+![image](https://github.com/user-attachments/assets/f39bb9c7-395b-4eec-863e-62f4a37068a6)
+
+![image](https://github.com/user-attachments/assets/b79e1702-da3d-4313-afb3-7e6c8132d69c)
+
+![image](https://github.com/user-attachments/assets/1f968946-18f9-46f7-a0d2-eba8b6de5189)
+
+---
+
+# 16.ArrayList和LinkedList的区别是什么
+
+![image](https://github.com/user-attachments/assets/56165176-10ae-42d4-abae-0284aa99c84e)
+
+![image](https://github.com/user-attachments/assets/c8be56d8-a2a7-49e1-90ab-1bc724e198db)
+
+![image](https://github.com/user-attachments/assets/03aab92b-512f-4bfa-a589-63ef9d92c41b)
