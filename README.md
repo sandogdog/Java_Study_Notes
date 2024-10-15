@@ -207,3 +207,23 @@ public class User {
 ![image](https://github.com/user-attachments/assets/70d052ab-942c-4f50-9724-193eac9a7b00)
 
 ![image](https://github.com/user-attachments/assets/2b1f154d-bfdb-44c3-93cb-4c085c910b31)
+
+---
+
+# 11.ArrayList数据结构——数组
+
+![image](https://github.com/user-attachments/assets/c149df34-b089-4c48-956b-1662872cb627)
+
+![image](https://github.com/user-attachments/assets/8b593442-95f3-4ea6-ab05-26fa129ab5dd)
+
+![image](https://github.com/user-attachments/assets/7b1a4fff-3480-4f4e-982b-93c2d55bd169)
+
+![image](https://github.com/user-attachments/assets/000093b7-5d7a-4344-beaf-63161780956b)
+
+![image](https://github.com/user-attachments/assets/411443fc-285d-4e6e-b20a-c17821b3204e)
+
+---
+
+# 12.ArrayList源码分析
+
+![image](https://github.com/user-attachments/assets/e85ca02c-d7c5-4450-8c9e-c547fdd1331e)
