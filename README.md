@@ -317,3 +317,15 @@ public class User {
 ![image](https://github.com/user-attachments/assets/9dd41c28-89a3-4ede-8f8f-0a6d5464302f)
 
 ![image](https://github.com/user-attachments/assets/ded0cdf2-f845-40b0-9f8a-529f8be78974)
+
+---
+
+# 21.HashMap的put方法的具体流程
+
+![image](https://github.com/user-attachments/assets/941ff22a-e11b-4c1e-aa2a-6b8114b53d4d)
+
+![image](https://github.com/user-attachments/assets/84437aaa-718f-41b2-87b5-a8372ec5da0b)
+
+![image](https://github.com/user-attachments/assets/b500233a-9c43-4b7b-b6ac-29afa62a88a9)
+
+![Uploading image.png…]()
