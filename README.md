@@ -329,3 +329,11 @@ public class User {
 ![image](https://github.com/user-attachments/assets/b500233a-9c43-4b7b-b6ac-29afa62a88a9)
 
 ![image](https://github.com/user-attachments/assets/5f1e5ce3-438d-4e98-aa47-b09889f87478)
+
+---
+
+# 22.HashMap的扩容机制
+
+![image](https://github.com/user-attachments/assets/eb8d5408-e163-4b4c-849f-a42d1b9502b4)
+
+![image](https://github.com/user-attachments/assets/bf6edbd7-da4a-4ed8-98c0-841ba21aedb2)
