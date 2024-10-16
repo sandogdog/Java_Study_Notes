@@ -269,3 +269,51 @@ public class User {
 ![image](https://github.com/user-attachments/assets/c8be56d8-a2a7-49e1-90ab-1bc724e198db)
 
 ![image](https://github.com/user-attachments/assets/03aab92b-512f-4bfa-a589-63ef9d92c41b)
+
+---
+
+# 17.二叉树
+
+![image](https://github.com/user-attachments/assets/6f328667-9130-4b11-add7-1c10319918a8)
+
+![image](https://github.com/user-attachments/assets/105e0f90-78e5-45e4-9bb6-9ca7164f5070)
+
+![image](https://github.com/user-attachments/assets/0d6e4f58-3e69-4db2-a73f-6fdf181675e1)
+
+---
+
+# 18.红黑树
+
+![image](https://github.com/user-attachments/assets/7912423e-fdaa-4f36-a18e-50144feba170)
+
+![image](https://github.com/user-attachments/assets/8eb4dcec-4ddf-45e6-9b0e-cd029b687323)
+
+![image](https://github.com/user-attachments/assets/4396d47d-9124-4106-91d5-9f321cce9efb)
+
+---
+
+# 19.散列表
+
+![image](https://github.com/user-attachments/assets/99ed0ab3-d8b5-4916-a254-3440018fdb96)
+
+![image](https://github.com/user-attachments/assets/18db2142-1e24-4ad4-a8c2-ffb944b8532d)
+
+![image](https://github.com/user-attachments/assets/5691fcfc-3715-4743-9de2-dd98f2e30a10)
+
+![image](https://github.com/user-attachments/assets/ee98ae94-6e40-43fa-95a4-e481eb3927ee)
+
+![image](https://github.com/user-attachments/assets/fee2abb2-f04d-48c5-8377-8e023f52f866)
+
+![image](https://github.com/user-attachments/assets/0f965297-9a1a-44a2-a812-bab5c6de1427)
+
+![image](https://github.com/user-attachments/assets/9f8061f7-6444-4413-9481-a57033070173)
+
+---
+
+# 20.HashMap的实现原理
+
+![image](https://github.com/user-attachments/assets/63cf993d-7054-46e0-b9c1-4102a34394bc)
+
+![image](https://github.com/user-attachments/assets/9dd41c28-89a3-4ede-8f8f-0a6d5464302f)
+
+![image](https://github.com/user-attachments/assets/ded0cdf2-f845-40b0-9f8a-529f8be78974)
