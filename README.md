@@ -337,3 +337,23 @@ public class User {
 ![image](https://github.com/user-attachments/assets/eb8d5408-e163-4b4c-849f-a42d1b9502b4)
 
 ![image](https://github.com/user-attachments/assets/bf6edbd7-da4a-4ed8-98c0-841ba21aedb2)
+
+---
+
+# 23.HashMap的寻址算法和数组长度为什么是2的n次幂
+
+![image](https://github.com/user-attachments/assets/ca0a0fed-3cd4-47cc-ab83-f73aea34d8c1)
+
+![image](https://github.com/user-attachments/assets/abe2b51d-d933-4a94-93d3-48e8ff6c5e0b)
+
+![image](https://github.com/user-attachments/assets/a5429e88-8312-46e1-9d66-62f1c3182269)
+
+---
+
+# 24.HashMap在1.7情况下的多线程死循环问题
+
+![image](https://github.com/user-attachments/assets/cd476948-48cb-4d2a-b725-e6e68169ccd8)
+
+![image](https://github.com/user-attachments/assets/efcc55f5-f89a-4e56-b34f-833ab7ccffbb)
+
+![image](https://github.com/user-attachments/assets/35f90070-8e42-411c-9077-710804744346)
