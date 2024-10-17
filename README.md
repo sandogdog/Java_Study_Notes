@@ -24,7 +24,7 @@ public class Main {
 
 ## 降序排序
 
-对于对象数组（如 Integer[]），可以直接使用 Arrays.sort() 结合 Collections.reverseOrder() 实现降序排列：
+对于对象数组（如 Integer[]），可以直接使用 Arrays.sort() 结合 _Collections.reverseOrder()_ 实现降序排列：
 ```Java
 Integer[] nums1 = {5, 2, 9, 1, 5, 6};
 Arrays.sort(nums1, Collections.reverseOrder());
