@@ -3,10 +3,12 @@
 
 ---
 
-## Javaの日常
+# Javaの日常
 
-### 1.sort() 方法：Arrays.sort() 是 Arrays 类中的一个静态方法，用于对数组进行排序。默认情况下，它对数组中的元素进行升序排序。
+# 1.sort() 方法：Arrays.sort() 是 Arrays 类中的一个静态方法，用于对数组进行排序。默认情况下，它对数组中的元素进行升序排序。
+
 eg:
+
 ```Java
 import java.util.Arrays;
 
@@ -17,6 +19,16 @@ public class Main {
         System.out.println(Arrays.toString(nums1)); // 输出: [1, 2, 5, 5, 6, 9]
     }
 }
+```
+<br>
+
+## 降序排序
+
+对于对象数组（如 Integer[]），可以直接使用 Arrays.sort() 结合 Collections.reverseOrder() 实现降序排列：
+```Java
+Integer[] nums1 = {5, 2, 9, 1, 5, 6};
+Arrays.sort(nums1, Collections.reverseOrder());
+// 排序后，nums1 = [9, 6, 5, 5, 2, 1]
 ```
 
 ---
