@@ -369,3 +369,40 @@ public class User {
 ![image](https://github.com/user-attachments/assets/efcc55f5-f89a-4e56-b34f-833ab7ccffbb)
 
 ![image](https://github.com/user-attachments/assets/35f90070-8e42-411c-9077-710804744346)
+
+---
+
+# 25.JVM介绍、运行流程
+
+![image](https://github.com/user-attachments/assets/b600c3e8-2b66-44d3-b359-61256595ec97)
+
+![image](https://github.com/user-attachments/assets/e195f4dd-22bb-4d7e-8b26-c8df118bf12a)
+
+![image](https://github.com/user-attachments/assets/afd11942-682d-49ab-9539-e47d85a38aa3)
+
+![image](https://github.com/user-attachments/assets/56780185-e8da-4e80-b43c-ce22fa4b226d)
+
+---
+
+# 26.什么是程序计数器
+
+![image](https://github.com/user-attachments/assets/87bff5bc-91a0-4fae-87e4-9bb7f5eb271a)
+
+![image](https://github.com/user-attachments/assets/c9702a39-9053-4113-a5de-72a65ba813a6)
+
+![image](https://github.com/user-attachments/assets/14a9a71d-b6b4-432b-94d9-352e7c5b7f0c)
+
+---
+
+# 27.详细介绍下Java堆
+
+![image](https://github.com/user-attachments/assets/41ea3023-4af2-4241-9182-d5fcce119d4f)
+
+![image](https://github.com/user-attachments/assets/5f12a701-b650-4b9f-a8d2-1b03773794fb)
+
+![image](https://github.com/user-attachments/assets/e89a749a-dabe-425a-96df-bc42338ffe8b)
+
+---
+
+# 28.什么是虚拟机栈
+
