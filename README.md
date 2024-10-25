@@ -406,3 +406,7 @@ public class User {
 
 # 28.什么是虚拟机栈
 
+![image](https://github.com/user-attachments/assets/3155e849-b49f-451d-ac2b-d884143b0dc6)
+
+![image](https://github.com/user-attachments/assets/85f05956-d55e-435a-a50a-fab6116ff4e4)
+
