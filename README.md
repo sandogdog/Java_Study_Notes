@@ -410,3 +410,22 @@ public class User {
 
 ![image](https://github.com/user-attachments/assets/85f05956-d55e-435a-a50a-fab6116ff4e4)
 
+![image](https://github.com/user-attachments/assets/2261d8de-160a-4110-b94d-dd5acd94abfd)
+
+![image](https://github.com/user-attachments/assets/53bcc4a4-045e-4074-b6bc-382d97f7317f)
+
+![image](https://github.com/user-attachments/assets/720fbe9c-8255-4309-9b90-7c719cf9b09c)
+
+![image](https://github.com/user-attachments/assets/d35bfd2a-ff6c-4846-8600-239c2bf7c9ff)
+
+---
+
+# 29.能不能解释一下方法区
+
+![image](https://github.com/user-attachments/assets/d5765f4b-b466-4cbc-8535-e5d03437c44a)
+
+![image](https://github.com/user-attachments/assets/14cd6b94-289e-4b70-8009-8192b216ead7)
+
+![image](https://github.com/user-attachments/assets/4a04ba12-b5a6-4381-a46c-beb4647b1acf)
+
+![image](https://github.com/user-attachments/assets/ae4fc003-ac0d-4c80-ae8e-49b464b403a8)
