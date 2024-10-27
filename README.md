@@ -463,3 +463,25 @@ public class User {
 # 32.类装载的执行过程
 
 ![image](https://github.com/user-attachments/assets/6c9d7cc7-0421-4bc3-9c1d-cef957bb3e22)
+
+![image](https://github.com/user-attachments/assets/1611039d-f748-487f-afd3-93ad44389f58)
+
+![image](https://github.com/user-attachments/assets/190e6060-122e-4fed-9611-c1c9661fb4b3)
+
+![image](https://github.com/user-attachments/assets/b74329c8-a25d-4835-aa84-84b7d6b3625c)
+
+![image](https://github.com/user-attachments/assets/38081409-4d83-45ca-96f1-37844a53bbe1)
+
+![image](https://github.com/user-attachments/assets/34ec0aaa-f9ca-488d-896d-a36c61ad0100)
+
+![image](https://github.com/user-attachments/assets/1fcf2fc6-356a-4a05-a75b-0a981b7b007c)
+
+![image](https://github.com/user-attachments/assets/035b5f0b-0d3a-4cb8-8ea1-8a22ff556308)
+
+---
+
+# 33.对象什么时候可以被垃圾器回收
+
+![image](https://github.com/user-attachments/assets/4d8cc846-f076-4b25-ad29-bc9151c69181)
+
+![image](https://github.com/user-attachments/assets/3e4a7162-d2c8-4eb4-a74e-d45917429c1d)
