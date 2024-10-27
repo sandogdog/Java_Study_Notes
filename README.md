@@ -485,3 +485,51 @@ public class User {
 ![image](https://github.com/user-attachments/assets/4d8cc846-f076-4b25-ad29-bc9151c69181)
 
 ![image](https://github.com/user-attachments/assets/3e4a7162-d2c8-4eb4-a74e-d45917429c1d)
+
+![image](https://github.com/user-attachments/assets/6f3edf6a-cba7-4f71-9247-210cc967b121)
+
+![image](https://github.com/user-attachments/assets/72534b5c-4ad9-4902-b1fb-f74d283845ef)
+
+![image](https://github.com/user-attachments/assets/11867e9f-5b30-45df-997c-732467d71fd6)
+
+![image](https://github.com/user-attachments/assets/926d05e2-7598-4e8b-81e9-328451a2ce79)
+
+---
+
+# 34.JVM垃圾回收算法有哪些
+
+![image](https://github.com/user-attachments/assets/3d2097db-692d-431b-b95a-7e05f611e864)
+
+![image](https://github.com/user-attachments/assets/47286cd1-622a-4e3f-911a-aab73ab958fb)
+
+![image](https://github.com/user-attachments/assets/1709dcbb-9747-439a-a4b5-e75d82be448a)
+
+![image](https://github.com/user-attachments/assets/6fac3245-102b-4786-a380-96336e9b2ae5)
+
+![image](https://github.com/user-attachments/assets/125e23de-0468-46a0-8f30-42557acbbf9f)
+
+---
+
+# 35.JVM中的分代回收
+
+![image](https://github.com/user-attachments/assets/2c6b6073-838d-4669-9471-a22d7ec59c51)
+
+![image](https://github.com/user-attachments/assets/1b565e6b-715e-4860-94f9-d3eee8b0e76b)
+
+![image](https://github.com/user-attachments/assets/11f92429-4bb1-43cb-9f65-cb68d9bfde77)
+
+![image](https://github.com/user-attachments/assets/8550266b-227e-4d5c-bb87-a63dcd0e40c5)
+
+---
+
+# 36.JVM有哪些垃圾回收器
+
+![image](https://github.com/user-attachments/assets/20f1c97f-8cac-4bf1-b6c7-d501b27e3af9)
+
+![image](https://github.com/user-attachments/assets/32ae8783-8023-4c31-b08e-2223ce366e54)
+
+![image](https://github.com/user-attachments/assets/4c7a3d88-9465-4ba5-8bac-b5e4775a7d51)
+
+![image](https://github.com/user-attachments/assets/9cc9862c-a614-4d8a-b2b7-524185440d9e)
+
+![image](https://github.com/user-attachments/assets/c5783a7f-44a8-464d-9097-e8f09f729987)
