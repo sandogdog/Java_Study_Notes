@@ -452,3 +452,14 @@ public class User {
 
 ![image](https://github.com/user-attachments/assets/d22174f3-47f3-40f3-8da0-cc9e9876b94a)
 
+![image](https://github.com/user-attachments/assets/0b5eb2c6-c6b5-4218-b234-565ae0ba2046)
+
+![image](https://github.com/user-attachments/assets/52c83e30-1e7e-46af-96b4-08c0c4daf4e9)
+
+![image](https://github.com/user-attachments/assets/8887355a-4afc-4424-a157-7137d54274ee)
+
+---
+
+# 32.类装载的执行过程
+
+![image](https://github.com/user-attachments/assets/6c9d7cc7-0421-4bc3-9c1d-cef957bb3e22)
