@@ -429,3 +429,26 @@ public class User {
 ![image](https://github.com/user-attachments/assets/4a04ba12-b5a6-4381-a46c-beb4647b1acf)
 
 ![image](https://github.com/user-attachments/assets/ae4fc003-ac0d-4c80-ae8e-49b464b403a8)
+
+---
+
+# 30.直接内存
+
+![image](https://github.com/user-attachments/assets/f1e042bb-1939-470b-bedf-6289d369ecf8)
+
+![image](https://github.com/user-attachments/assets/2d1c37ef-e5ce-483c-99c3-05d797367041)
+
+![image](https://github.com/user-attachments/assets/9812731c-18dd-4eab-a93c-cd8d643c45ce)
+
+![image](https://github.com/user-attachments/assets/a53c771f-e961-4891-aba2-e8eb90f5e002)
+
+---
+
+# 31.类加载器、双亲委派
+
+![image](https://github.com/user-attachments/assets/6036447e-4f3f-409a-8d2d-9b6b88f397e1)
+
+![image](https://github.com/user-attachments/assets/9dda5b6d-e1c1-4d78-8549-655c408ea9ea)
+
+![image](https://github.com/user-attachments/assets/d22174f3-47f3-40f3-8da0-cc9e9876b94a)
+
