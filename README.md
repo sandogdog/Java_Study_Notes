@@ -541,3 +541,17 @@ public class User {
 ![image](https://github.com/user-attachments/assets/23d4579f-a21e-43f5-9aa9-6da5a06f1566)
 
 ![image](https://github.com/user-attachments/assets/8fc26e3f-9b34-42e7-b0e7-e6f58648ed83)
+
+![image](https://github.com/user-attachments/assets/7b1a0a70-b9d8-4676-b61c-654ea2891fbd)
+
+![image](https://github.com/user-attachments/assets/cbfb51e7-f891-4252-b05f-5eb099049863)
+
+![image](https://github.com/user-attachments/assets/66c1284c-d46c-41fb-8240-6be17b04e8c5)
+
+![image](https://github.com/user-attachments/assets/f79113b4-4bcf-4084-832c-ff88c691946f)
+
+![image](https://github.com/user-attachments/assets/5ac700f5-6a64-4c84-a946-3b0f3d84509a)
+
+---
+
+# 38.垃圾回收——强引用、软引用、弱引用、虚引用的区别
