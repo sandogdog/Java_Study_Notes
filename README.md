@@ -533,3 +533,11 @@ public class User {
 ![image](https://github.com/user-attachments/assets/9cc9862c-a614-4d8a-b2b7-524185440d9e)
 
 ![image](https://github.com/user-attachments/assets/c5783a7f-44a8-464d-9097-e8f09f729987)
+
+---
+
+# 37.G1垃圾回收器
+
+![image](https://github.com/user-attachments/assets/23d4579f-a21e-43f5-9aa9-6da5a06f1566)
+
+![image](https://github.com/user-attachments/assets/8fc26e3f-9b34-42e7-b0e7-e6f58648ed83)
