@@ -555,3 +555,39 @@ public class User {
 ---
 
 # 38.垃圾回收——强引用、软引用、弱引用、虚引用的区别
+
+![image](https://github.com/user-attachments/assets/e2424a36-3989-434b-a3a6-4b7b55266f2e)
+
+![image](https://github.com/user-attachments/assets/ac9e36c2-4628-4a53-8a8f-9b951ba76e08)
+
+![image](https://github.com/user-attachments/assets/5c919362-846a-422d-96ea-25613567c692)
+
+![image](https://github.com/user-attachments/assets/dd6e19a2-0e6b-45ff-988a-18207090c2bb)
+
+---
+
+# 39.JVM调优参数可以在哪里设置参数值
+
+![image](https://github.com/user-attachments/assets/d6feab06-8683-4f0b-b40f-4d612382efb8)
+
+![image](https://github.com/user-attachments/assets/1a048c78-78af-4951-b5e9-b0ee1fb6e9da)
+
+![image](https://github.com/user-attachments/assets/db8438a8-3a03-4035-9860-6bc8ed7dd938)
+
+![image](https://github.com/user-attachments/assets/a08464cb-8ee2-4af3-b53a-419d0d2d702d)
+
+---
+
+# 40.用JVM调优的参数都有哪些呢？
+
+![image](https://github.com/user-attachments/assets/3cdab83a-7d2b-4187-8519-cbebd3e3cb32)
+
+![image](https://github.com/user-attachments/assets/b418ddc5-603a-4ea4-b360-202baf580ed8)
+
+![image](https://github.com/user-attachments/assets/4fcf830c-59b3-482d-8248-33cb7eda792f)
+
+![image](https://github.com/user-attachments/assets/6c6304f3-1cd0-4d57-9674-8df52333b52a)
+
+![image](https://github.com/user-attachments/assets/7b08685b-d405-4370-b8d8-4639874fc548)
+
+![image](https://github.com/user-attachments/assets/eb30cfb6-79e1-4555-8c52-2323e804bd55)
