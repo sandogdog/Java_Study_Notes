@@ -611,3 +611,29 @@ public class User {
 ![image](https://github.com/user-attachments/assets/7d2deb74-dcde-4f99-9a74-f7d4ffb40574)
 
 ![image](https://github.com/user-attachments/assets/50e71b54-cb71-4b39-aa6d-456cfb253a4b)
+
+---
+
+# 42.Java内存泄漏的排查思路
+
+主要考虑堆的内存泄漏
+
+![image](https://github.com/user-attachments/assets/52b98ced-52c2-45e7-9e21-305d37784926)
+
+![image](https://github.com/user-attachments/assets/4da4698b-5c18-4c3f-9769-8f000ecf25dd)
+
+![image](https://github.com/user-attachments/assets/07449591-505a-4816-a802-52c13368bbdc)
+
+![image](https://github.com/user-attachments/assets/c0a55a50-7917-4371-82c0-c05d5c4daaa3)
+
+---
+
+# 43.CPU飙高排查方案与思路
+
+![image](https://github.com/user-attachments/assets/09ea5dfd-5a32-44f5-baaa-c01a343888c3)
+
+![image](https://github.com/user-attachments/assets/0f2728a5-534f-471e-967a-955e54e3923e)
+
+![image](https://github.com/user-attachments/assets/31f925a2-f552-49a2-b551-f565cdacc250)
+
+![image](https://github.com/user-attachments/assets/4ade7e0b-3570-4cc7-ba35-c71b412d91cf)
