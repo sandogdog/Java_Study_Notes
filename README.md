@@ -591,3 +591,23 @@ public class User {
 ![image](https://github.com/user-attachments/assets/7b08685b-d405-4370-b8d8-4639874fc548)
 
 ![image](https://github.com/user-attachments/assets/eb30cfb6-79e1-4555-8c52-2323e804bd55)
+
+---
+
+# 41.JVM调优的工具
+
+![image](https://github.com/user-attachments/assets/6471544f-983e-4216-850c-5be8b25152d9)
+
+![image](https://github.com/user-attachments/assets/d0b6e039-4e68-4079-8416-a7dc8da7c791)
+
+![image](https://github.com/user-attachments/assets/c877cfd9-63d3-42b6-bb3c-b3920de20639)
+
+![image](https://github.com/user-attachments/assets/e9dc1673-4df0-49f4-a600-2ce4257e75a0)
+
+![image](https://github.com/user-attachments/assets/e659f85c-fcaa-41fb-8925-7700190470de)
+
+![image](https://github.com/user-attachments/assets/0d319c2a-0f6e-4570-b143-76dbbb916783)
+
+![image](https://github.com/user-attachments/assets/7d2deb74-dcde-4f99-9a74-f7d4ffb40574)
+
+![image](https://github.com/user-attachments/assets/50e71b54-cb71-4b39-aa6d-456cfb253a4b)
