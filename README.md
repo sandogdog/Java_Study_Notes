@@ -637,3 +637,36 @@ public class User {
 ![image](https://github.com/user-attachments/assets/31f925a2-f552-49a2-b551-f565cdacc250)
 
 ![image](https://github.com/user-attachments/assets/4ade7e0b-3570-4cc7-ba35-c71b412d91cf)
+
+---
+
+# 44.关于@ApiModelProperty
+
+@ApiModelProperty 是 Swagger 注解库中的一部分，用于生成 API 文档时为模
+型类的属性提供描述信息，帮助生成更清晰、易于理解的接口文档。它通常与 @ApiModel 注解一起使用，标注在模型类的字段上，指定字段的详细信息，以便在自动生成的 API 文档中更准确地描述每个属性的功能和含义。
+
+常用属性：
+value：用于描述字段的含义或用途。
+required：是否为必填字段，默认为 false。
+example：字段的示例值，帮助生成文档时显示实际的字段示例。
+notes：补充的说明，可以提供更详细的描述。
+
+eg:
+```Java
+import io.swagger.annotations.ApiModelProperty;
+
+public class User {
+    
+    @ApiModelProperty(value = "用户的唯一标识", required = true, example = "1")
+    private Long id;
+    
+    @ApiModelProperty(value = "用户的姓名", example = "张三")
+    private String name;
+    
+    @ApiModelProperty(value = "用户的邮箱地址", example = "example@example.com")
+    private String email;
+    
+    // Getters and Setters
+}
+```
+---
